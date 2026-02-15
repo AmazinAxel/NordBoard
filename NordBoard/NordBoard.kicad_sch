@@ -498,7 +498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 161.29 62.23 0)
 			(effects
 				(font
@@ -566,7 +566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 92.71 59.69 0)
 			(effects
 				(font
@@ -634,7 +634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 46.99 60.96 0)
 			(effects
 				(font
@@ -702,7 +702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 115.57 54.61 0)
 			(effects
 				(font
@@ -769,7 +769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
 			(at 213.36 46.99 0)
 			(effects
 				(font
@@ -873,7 +873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 161.29 36.83 0)
 			(effects
 				(font
@@ -941,7 +941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 115.57 29.21 0)
 			(effects
 				(font
@@ -1009,7 +1009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 161.29 49.53 0)
 			(effects
 				(font
@@ -1076,7 +1076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 69.85 39.37 0)
 			(effects
 				(font
@@ -1144,7 +1144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 92.71 34.29 0)
 			(effects
 				(font
@@ -1211,7 +1211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 69.85 64.77 0)
 			(effects
 				(font
@@ -1279,7 +1279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 184.15 64.77 0)
 			(effects
 				(font
@@ -1347,7 +1347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 92.71 46.99 0)
 			(effects
 				(font
@@ -1415,7 +1415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 138.43 33.02 0)
 			(effects
 				(font
@@ -1483,7 +1483,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 138.43 58.42 0)
 			(effects
 				(font
@@ -1551,7 +1551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 184.15 39.37 0)
 			(effects
 				(font
@@ -1619,7 +1619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 184.15 52.07 0)
 			(effects
 				(font
@@ -1687,7 +1687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -1755,7 +1755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 115.57 41.91 0)
 			(effects
 				(font
@@ -1823,7 +1823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 138.43 45.72 0)
 			(effects
 				(font
@@ -1890,7 +1890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u"
 			(at 69.85 52.07 0)
 			(effects
 				(font
