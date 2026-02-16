@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 162.56 60.96)
-		(size 20.32 15.24)
+		(at 15.875 29.21)
+		(size 136.525 127.635)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "7e48f610-41a3-4552-82fa-dd005ce074be")
 		(property "Sheetname" "left"
-			(at 162.56 60.2484 0)
+			(at 15.875 28.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,7 +34,7 @@
 			)
 		)
 		(property "Sheetfile" "side.kicad_sch"
-			(at 162.56 76.7846 0)
+			(at 15.875 157.4296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52,8 +52,8 @@
 		)
 	)
 	(sheet
-		(at 92.71 60.96)
-		(size 24.13 15.24)
+		(at 156.21 29.21)
+		(size 123.19 128.27)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -66,9 +66,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "93eb0074-ccc1-462b-af0c-8cfe0dd2a26c")
+		(uuid "a5832e99-b0f3-4441-a24d-2a862f25015f")
 		(property "Sheetname" "right"
-			(at 92.71 60.2484 0)
+			(at 156.21 28.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79,8 +79,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "right.kicad_sch"
-			(at 92.71 76.7846 0)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 156.21 158.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)

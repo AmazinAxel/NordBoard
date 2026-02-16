@@ -1,1 +1,4 @@
-NordBoard-backups/
+NordBoard-backups
+*.lck
+_autosave*
+*auto_saved_files#

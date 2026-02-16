@@ -2203,6 +2203,10 @@
 					(reference "D24")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D24")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2267,6 +2271,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW29")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW29")
 					(unit 1)
 				)
@@ -2358,6 +2366,10 @@
 					(reference "D22")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D22")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2422,6 +2434,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW33")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW33")
 					(unit 1)
 				)
@@ -2493,6 +2509,10 @@
 					(reference "SW24")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW24")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2558,6 +2578,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW34")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW34")
 					(unit 1)
 				)
@@ -2684,6 +2708,10 @@
 					(reference "U2")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "U2")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2745,6 +2773,10 @@
 		(instances
 			(project ""
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "H1")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "H1")
 					(unit 1)
 				)
@@ -2816,6 +2848,10 @@
 					(reference "SW31")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW31")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2880,6 +2916,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW25")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW25")
 					(unit 1)
 				)
@@ -2971,6 +3011,10 @@
 					(reference "D31")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D31")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3056,6 +3100,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "D30")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "D30")
 					(unit 1)
 				)
@@ -3147,6 +3195,10 @@
 					(reference "D34")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D34")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3235,6 +3287,10 @@
 					(reference "D29")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D29")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3303,6 +3359,10 @@
 					(reference "SW16")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW16")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3364,6 +3424,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "H4")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "H4")
 					(unit 1)
 				)
@@ -3431,6 +3495,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW30")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW30")
 					(unit 1)
 				)
@@ -3522,6 +3590,10 @@
 					(reference "D27")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D27")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3607,6 +3679,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "D28")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "D28")
 					(unit 1)
 				)
@@ -3698,6 +3774,10 @@
 					(reference "D1")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D1")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3759,6 +3839,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "H2")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "H2")
 					(unit 1)
 				)
@@ -3850,6 +3934,10 @@
 					(reference "D21")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D21")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3914,6 +4002,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW23")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW23")
 					(unit 1)
 				)
@@ -3985,6 +4077,10 @@
 					(reference "SW27")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW27")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4052,6 +4148,10 @@
 					(reference "SW32")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW32")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4116,6 +4216,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW26")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW26")
 					(unit 1)
 				)
@@ -4207,6 +4311,10 @@
 					(reference "D20")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D20")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4271,6 +4379,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW15")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW15")
 					(unit 1)
 				)
@@ -4340,6 +4452,10 @@
 					(reference "#PWR02")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "#PWR02")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4401,6 +4517,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "H3")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "H3")
 					(unit 1)
 				)
@@ -4492,6 +4612,10 @@
 					(reference "D26")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D26")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4559,6 +4683,10 @@
 					(reference "SW9")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "SW9")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4623,6 +4751,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW28")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW28")
 					(unit 1)
 				)
@@ -4714,6 +4846,10 @@
 					(reference "D32")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D32")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4778,6 +4914,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW22")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW22")
 					(unit 1)
 				)
@@ -4846,6 +4986,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "SW2")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "SW2")
 					(unit 1)
 				)
@@ -4937,6 +5081,10 @@
 					(reference "D19")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D19")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -5022,6 +5170,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "D23")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "D23")
 					(unit 1)
 				)
@@ -5113,6 +5265,10 @@
 					(reference "D33")
 					(unit 1)
 				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
+					(reference "D33")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -5198,6 +5354,10 @@
 		(instances
 			(project "NordBoard"
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/7e48f610-41a3-4552-82fa-dd005ce074be"
+					(reference "D25")
+					(unit 1)
+				)
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44/a5832e99-b0f3-4441-a24d-2a862f25015f"
 					(reference "D25")
 					(unit 1)
 				)
