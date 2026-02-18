@@ -411,7 +411,7 @@
 	)
 	(sheet
 		(at 15.875 29.21)
-		(size 130.175 127.635)
+		(size 136.525 127.635)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -456,8 +456,8 @@
 		)
 	)
 	(sheet
-		(at 147.955 29.21)
-		(size 131.445 128.27)
+		(at 156.21 29.21)
+		(size 123.19 128.27)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -472,7 +472,7 @@
 		)
 		(uuid "a5832e99-b0f3-4441-a24d-2a862f25015f")
 		(property "Sheetname" "right"
-			(at 147.955 28.4984 0)
+			(at 156.21 28.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -484,7 +484,7 @@
 			)
 		)
 		(property "Sheetfile" "side.kicad_sch"
-			(at 147.955 158.0646 0)
+			(at 156.21 158.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
