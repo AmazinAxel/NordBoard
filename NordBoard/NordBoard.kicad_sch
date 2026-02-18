@@ -196,8 +196,8 @@
 		)
 	)
 	(rectangle
-		(start 19.05 165.1)
-		(end 69.85 184.785)
+		(start 16.51 171.45)
+		(end 90.17 191.135)
 		(stroke
 			(width 0)
 			(type dash)
@@ -209,7 +209,7 @@
 	)
 	(text "Mousebites"
 		(exclude_from_sim no)
-		(at 25.654 167.64 0)
+		(at 23.114 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -219,7 +219,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MouseBite")
-		(at 54.61 176.53 0)
+		(at 52.07 182.88 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -227,7 +227,7 @@
 		(dnp no)
 		(uuid "0096536a-c21c-4e9b-86d4-e38b4e1ffce2")
 		(property "Reference" "B3"
-			(at 57.15 176.53 0)
+			(at 54.61 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -236,7 +236,7 @@
 			)
 		)
 		(property "Value" "MouseBite"
-			(at 57.15 177.8624 0)
+			(at 54.61 184.2124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -245,8 +245,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
-			(at 54.61 176.53 0)
+		(property "Footprint" "PCM_marbastlib-various:mousebites_2mm"
+			(at 52.07 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -255,7 +255,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 176.53 0)
+			(at 52.07 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -264,7 +264,7 @@
 			)
 		)
 		(property "Description" "Mouse bites, break lines"
-			(at 54.61 176.53 0)
+			(at 52.07 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -283,7 +283,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MouseBite")
-		(at 39.37 176.53 0)
+		(at 36.83 182.88 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -291,7 +291,7 @@
 		(dnp no)
 		(uuid "1255446e-c8b1-4244-9c2a-cf48dd805260")
 		(property "Reference" "B2"
-			(at 41.91 176.53 0)
+			(at 39.37 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -300,7 +300,7 @@
 			)
 		)
 		(property "Value" "MouseBite"
-			(at 41.91 177.8624 0)
+			(at 39.37 184.2124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -309,8 +309,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
-			(at 39.37 176.53 0)
+		(property "Footprint" "PCM_marbastlib-various:mousebites_2mm"
+			(at 36.83 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -319,7 +319,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 176.53 0)
+			(at 36.83 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -328,7 +328,7 @@
 			)
 		)
 		(property "Description" "Mouse bites, break lines"
-			(at 39.37 176.53 0)
+			(at 36.83 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -347,7 +347,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MouseBite")
-		(at 22.86 176.53 0)
+		(at 20.32 182.88 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -355,7 +355,7 @@
 		(dnp no)
 		(uuid "1db1f2ce-8cf1-4960-9efd-b327a14b0ca6")
 		(property "Reference" "B1"
-			(at 25.4 176.53 0)
+			(at 22.86 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -364,7 +364,7 @@
 			)
 		)
 		(property "Value" "MouseBite"
-			(at 25.4 177.8624 0)
+			(at 22.86 184.2124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -373,8 +373,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
-			(at 22.86 176.53 0)
+		(property "Footprint" "PCM_marbastlib-various:mousebites_2mm"
+			(at 20.32 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -383,7 +383,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 22.86 176.53 0)
+			(at 20.32 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -392,7 +392,7 @@
 			)
 		)
 		(property "Description" "Mouse bites, break lines"
-			(at 22.86 176.53 0)
+			(at 20.32 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -404,6 +404,134 @@
 			(project ""
 				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44"
 					(reference "B1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MouseBite")
+		(at 81.28 182.88 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac1b487f-f94a-4598-841e-6a3d15c42e25")
+		(property "Reference" "B5"
+			(at 83.82 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MouseBite"
+			(at 83.82 184.2124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-various:mousebites_2mm"
+			(at 81.28 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mouse bites, break lines"
+			(at 81.28 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "NordBoard"
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44"
+					(reference "B5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MouseBite")
+		(at 67.31 182.88 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0e6e8ae-b003-4fa5-8ebf-d55a89171117")
+		(property "Reference" "B4"
+			(at 69.85 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MouseBite"
+			(at 69.85 184.2124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-various:mousebites_2mm"
+			(at 67.31 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mouse bites, break lines"
+			(at 67.31 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "NordBoard"
+				(path "/7cf7f72d-7ab1-4807-b592-339093d5ca44"
+					(reference "B4")
 					(unit 1)
 				)
 			)
@@ -457,7 +585,7 @@
 	)
 	(sheet
 		(at 147.955 29.21)
-		(size 131.445 128.27)
+		(size 131.445 127.635)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -484,7 +612,7 @@
 			)
 		)
 		(property "Sheetfile" "side.kicad_sch"
-			(at 147.955 158.0646 0)
+			(at 147.955 157.4296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
